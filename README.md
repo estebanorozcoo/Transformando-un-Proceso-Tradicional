@@ -1,6 +1,6 @@
 # Transformando-un-Proceso-Tradicional
 1. Introducción  
-En este documento, se expone cómo un proceso tradicional puede mejorarse mediante la incorporación de la inteligencia artificial. Se eligió como caso de uso *el control de inventario, muy común en tiendas minoristas y supermercados.
+En este documento, se expone cómo un proceso tradicional puede mejorarse mediante la incorporación de la inteligencia artificial. Se eligió como caso de uso el control de inventario, muy común en tiendas minoristas y supermercados.
 
 2. Descripción del Proceso Tradicional  
 Situación actual:
